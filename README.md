@@ -1,7 +1,9 @@
 # Spellbreaker-Insight-Reffect
 A more visible UI element for Warrior's Spellbreaker Elite Specialization
 
-Tracks stacks of Attacker's Insight (up to 5) on disable or boonstrip.
+Tracks stacks of Attacker's Insight (up to 5) which is obtained on disable or boonstrip, granting 50 Power, Precision and Ferocity per stack. 
+This mechanic is quite crucial to maximizing Spellbreaker damage and felt like it was a part of its core design.
+
 <img width="815" height="176" alt="image" src="https://github.com/user-attachments/assets/f6a2b3a3-81d6-4d97-89c9-01c79079edbf" />
 <img width="840" height="204" alt="image" src="https://github.com/user-attachments/assets/af7fbecb-5847-43cf-898e-973f4d5a18cb" />
 
