@@ -9,14 +9,16 @@ This mechanic is quite crucial to maximizing Spellbreaker damage and felt like i
 
 
 # How to use
-Simply download the zip file to your reffect root folder like so:
+First, download the zip file to your reffect root folder like so:
 
-<img width="522" height="202" alt="image" src="https://github.com/user-attachments/assets/2ca1188f-c4d8-4980-8a1a-a31431be4826" />
+<img width="520" height="190" alt="image" src="https://github.com/user-attachments/assets/eb8d0116-04c7-4490-91f7-39bdac374528" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
 Then, return to reffect ingame and refresh packs.
 
-# Notes
+Finally, enable your interface size of choice:
 
-This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+<img width="243" height="118" alt="image" src="https://github.com/user-attachments/assets/42a409fd-1aa5-4687-918c-2449bbab1514" />
+
+<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/b8e6cf96-18f7-4a0c-b00e-c8b0c2d9a68d" />
